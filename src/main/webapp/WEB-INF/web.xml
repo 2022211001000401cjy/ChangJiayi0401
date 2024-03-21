@@ -7,6 +7,10 @@
         <servlet-name>Chang</servlet-name>
         <servlet-class>com.example._2022211001000401ChangJiayi.HelloWorldServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>RegisterServlet</servlet-name>
+        <servlet-class>com.example._2022211001000401ChangJiayi.RegisterServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Chang</servlet-name>
         <url-pattern>/hello</url-pattern>

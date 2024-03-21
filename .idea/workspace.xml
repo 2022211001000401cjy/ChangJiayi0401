@@ -9,9 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4b37d0f-f48e-4cdf-b63e-93eaca0d6e89" name="Default Changelist" comment="HW-Week2-Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+    <list default="true" id="a4b37d0f-f48e-4cdf-b63e-93eaca0d6e89" name="Default Changelist" comment="HW-Week3-Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoweek3/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoweek3/HelloWorldServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,15 +55,13 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,7 +114,10 @@
       <option name="presentableId" value="Default" />
       <updated>1710430930475</updated>
       <workItem from="1710430931767" duration="135000" />
-      <workItem from="1710431102438" duration="1575000" />
+      <workItem from="1710431102438" duration="2629000" />
+      <workItem from="1711028125309" duration="614000" />
+      <workItem from="1711028813252" duration="149000" />
+      <workItem from="1711029030989" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="HW-Week2-Commit">
       <created>1710432190261</created>
@@ -128,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710432475650</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW-Week2-Commit">
+      <created>1710432705791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710432705791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
